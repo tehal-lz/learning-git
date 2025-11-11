@@ -1,0 +1,3 @@
+console.log('App started')
+console.log('DB connection successful')
+console.log('Server running on port 3000')
