@@ -1,1 +1,1 @@
-Login logic here
+def validate_user():\n    pass
